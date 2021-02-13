@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/CMakeFiles/bootloader
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/CMakeFiles/bootloader.rule
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/CMakeFiles/bootloader-complete.rule
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule

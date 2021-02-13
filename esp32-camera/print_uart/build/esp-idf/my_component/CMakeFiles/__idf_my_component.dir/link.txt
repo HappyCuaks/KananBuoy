@@ -1,0 +1,2 @@
+/home/pablo/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ar qc libmy_component.a  CMakeFiles/__idf_my_component.dir/my_component.c.obj
+/home/pablo/.espressif/tools/xtensa-esp32-elf/esp-2020r3-8.4.0/xtensa-esp32-elf/bin/xtensa-esp32-elf-ranlib libmy_component.a

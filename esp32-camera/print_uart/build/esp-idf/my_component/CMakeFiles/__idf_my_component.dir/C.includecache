@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../components/my_component/include/my_component.h
+
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/components/my_component/my_component.c
+stdio.h
+-
+my_component.h
+/home/pablo/esp-idf/esp-idf/examples/Pablo_Code/esp32-camera/print_uart/components/my_component/my_component.h
+
