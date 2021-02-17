@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/gerardpi/esp/print_uart/build/CMakeFiles/bootloader
+/home/gerardpi/esp/print_uart/build/CMakeFiles/bootloader.rule
+/home/gerardpi/esp/print_uart/build/CMakeFiles/bootloader-complete.rule
+/home/gerardpi/esp/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/gerardpi/esp/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/gerardpi/esp/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/gerardpi/esp/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
+/home/gerardpi/esp/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/gerardpi/esp/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/gerardpi/esp/print_uart/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
