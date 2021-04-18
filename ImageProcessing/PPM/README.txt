@@ -1,0 +1,1 @@
+Output of the ImageProcessing script will be written here, for more info into ppm:https://en.wikipedia.org/wiki/Netpbm

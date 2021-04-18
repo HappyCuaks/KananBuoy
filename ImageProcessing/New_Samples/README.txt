@@ -1,0 +1,1 @@
+Make sure pictures have the extension .RAW
