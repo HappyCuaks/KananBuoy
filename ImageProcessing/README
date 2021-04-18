@@ -1,0 +1,8 @@
+/***************************************************************
+**			README					**
+***************************************************************/
+
+1. Put the raw images into New_Samples/
+2. Make sure raw images are called with extension *.RAW
+3. Execute the Script
+4. Pick up PPM files from PPM/
