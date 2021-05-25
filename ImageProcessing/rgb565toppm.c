@@ -88,7 +88,7 @@ int main()
 
 	   fclose(f);
 	   fclose(f_rgb656);
-		file_rgb_num++;
+	   file_rgb_num++;
 	   file_num ++;
    }while(1);
 
